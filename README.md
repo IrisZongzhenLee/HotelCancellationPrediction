@@ -60,7 +60,9 @@ Key features include:
 
 Models explored include:
 - Logistic Regression
-- Other baseline classifiers (if applicable)
+- Random Forest
+- XGBoost
+- LightGBM
 
 Evaluation metrics:
 - Accuracy
