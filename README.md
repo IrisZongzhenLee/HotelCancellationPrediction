@@ -60,9 +60,9 @@ Key features include:
 
 Models explored include:
 - Logistic Regression
+- Decision Tree
 - Random Forest
 - XGBoost
-- LightGBM
 
 Evaluation metrics:
 - Accuracy
@@ -85,7 +85,6 @@ Model interpretation focuses on identifying **business-relevant drivers** of can
 
 ## 🚀 Possible Extensions
 
-- Advanced models (Random Forest, XGBoost, LightGBM)
 - Handling class imbalance with SMOTE
 - Feature importance and SHAP analysis
 - Model deployment as a booking risk API or dashboard
